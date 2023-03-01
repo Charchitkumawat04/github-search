@@ -1,4 +1,4 @@
 # github-search
-Lumos-Wizard
+Lumos-Wizard Virtual competition
 
-Website link ->
+<a href="https://github-search-cyan.vercel.app/" Website link </a>
